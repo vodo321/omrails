@@ -7,7 +7,6 @@ gem 'simple_form'
 gem 'bootstrap-sass', '~> 2.3.2.2'
 
 
-
 group :production do
 	gem 'pg'
 end
